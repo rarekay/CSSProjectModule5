@@ -8,6 +8,15 @@ body{
     overflow: hidden;
 }
 
+.logo{
+    left: 25px;
+    top: 12px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:static;
+}
+
 main{
     height: 100%;
     width: 93.5%;
@@ -67,7 +76,6 @@ nav ul li {
 .frame{
     height:220px;
     width:220px;
-    
     margin-left: 250px;
     position: relative;
     border-radius: 10px;
